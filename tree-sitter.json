@@ -10,7 +10,8 @@
         "blub"
       ],
       "injection-regex": "^blub$",
-      "class-name": "TreeSitterBlub"
+      "class-name": "TreeSitterBlub",
+      "highlights": "queries/highlights.scm"
     }
   ],
   "metadata": {
